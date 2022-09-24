@@ -2,8 +2,9 @@
 Virtual Internship - Android Application Development Using Kotlin
 # Build a Grocery-App-Project-2 
 # Code - [https://github.com/RanjeetSingh46/Grocery-App-Project-]
-
 Name: [Ranjeet Singh](https://github.com/RanjeetSingh46)
+
+Project Doc - https://workdrive.zohoexternal.com/writer/open/1ma93690bfc21306044ff8302e37bb604de92?authId=%7B%22linkId%22%3A%225k2wApa8ToC-LYmlU%22%7D
 
 [Grocery Demo link] (https://drive.google.com/file/d/1z9WfL05s6KidSaPkcD27NpPlZhTA0Afi/view?usp=drivesdk)
 
